@@ -1,6 +1,6 @@
 ## Hi I'm Nischal Shakya 👋
 
-- 🌱 I’m currently learning Ethereum blockchain with Solidity and many more.
+- 🌱 I’m currently learning Machine Learning, DevOps, AWS and many more.
 
 <h3>Things I code with</h3>
 <p>
