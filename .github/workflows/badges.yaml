@@ -1,0 +1,17 @@
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 10pm  Nepal Time (UTC +5:45)
+    - cron: '15 16 * * *'
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: nischal-shakya
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          NUMBER_LAST_BADGES: 10

@@ -1,29 +1,20 @@
 ## Hi I'm Nischal Shakya 👋
 
-- 🌱 I’m currently learning Machine Learning, DevOps, AWS and many more.
+Highly motivated aspiring **DevOps engineer** with a strong foundation in **cloud computing and cloud essentials skills in AWS**. Passionate about streamlining software development processes and dedicated to enhancing productivity and enabling efficient software delivery. Eager to bridge the gap between development and operations, I am actively seeking opportunities to gain hands-on experience in implementing DevOps methodologies, leveraging AWS services, and utilizing automation tools.
 
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?&logo=react&logoColor=white" />
-  <img alt="Next JS" src="https://img.shields.io/badge/Next-black?&logo=next.js&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?&logo=vite&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?&logo=apollo-graphql&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?&logo=vercel&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?&logo=netlify&logoColor=#00C7B7">
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?&logo=sass&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white" />
-  <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white)" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?&logo=nestjs&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?&logo=npm&logoColor=white" />
-  <img alt="yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?&logo=yarn&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?&logo=prettier&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?&logo=Node.js&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&logo=jest&logoColor=white" />
-  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?&logo=solidity&logoColor=white" />
-  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?&logo=Ethereum&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white" />
-</p>
+I am eager to contribute to a team of experienced AWS professionals while expanding my technical knowledge and practical abilities. My passion for AWS and commitment to excellence make me a valuable addition to any team. As someone who values continuous learning and growth, I am excited to expand my skill set and stay current with the latest AWS technologies. My desire to learn and ability to collaborate with others will enable me to contribute effectively to any AWS project.
+
+## My Badges
+
+To see all the other badges, click [here](https://www.credly.com/users/nischal-shakya/badges)
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
