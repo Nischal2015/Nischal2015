@@ -19,6 +19,8 @@ To see all the other badges, click [here](https://www.credly.com/users/nischal-s
 [![Data Science Orientation](https://images.credly.com/size/110x110/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png)](http://www.credly.com/badges/ce261b8b-c88c-45fc-8618-0e5d5dc2bb1f "Data Science Orientation")
 <!--END_SECTION:badges-->
 
+## My Tech Stack
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
