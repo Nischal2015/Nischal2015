@@ -14,5 +14,5 @@ jobs:
         with:
           CREDLY_USER: nischal-shakya
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          BADGE_SIZE: 125
+          BADGE_SIZE: 130
           NUMBER_LAST_BADGES: 10
