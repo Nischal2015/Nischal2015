@@ -9,7 +9,7 @@ I am eager to contribute to a team of experienced AWS professionals while expand
 To see all the other badges, click [here](https://www.credly.com/users/nischal-shakya/badges)
 
 <!--START_SECTION:badges-->
-[![AWS Learning: Cloud Essentials](https://images.credly.com/size/130x130/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](http://www.credly.com/badges/7cdacbd2-b15b-4f2e-9afb-646d235e2839 "AWS Learning: Cloud Essentials")
+[![AWS Knowledge: Cloud Essentials](https://images.credly.com/size/130x130/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](http://www.credly.com/badges/7cdacbd2-b15b-4f2e-9afb-646d235e2839 "AWS Knowledge: Cloud Essentials")
 [![AWS Educate Getting Started with Databases](https://images.credly.com/size/130x130/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png)](http://www.credly.com/badges/34ccca93-5c2e-44bf-ae38-248b9a818568 "AWS Educate Getting Started with Databases")
 [![AWS Educate Getting Started with Networking](https://images.credly.com/size/130x130/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png)](http://www.credly.com/badges/6b92138d-88f6-43b5-98e4-030564e2896d "AWS Educate Getting Started with Networking")
 [![AWS Educate Getting Started with Compute](https://images.credly.com/size/130x130/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png)](http://www.credly.com/badges/47f14b05-0233-470e-9a9c-4eb886b020ac "AWS Educate Getting Started with Compute")
