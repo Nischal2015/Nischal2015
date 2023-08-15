@@ -4,13 +4,17 @@ on:
   schedule:
     # Runs at 10pm  Nepal Time (UTC +5:45)
     - cron: '15 16 * * *'
+
+  workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
+
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: pemtajo/badge-readme@2.4.0
         with:
           CREDLY_USER: nischal-shakya
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
