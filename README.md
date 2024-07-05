@@ -17,7 +17,6 @@ To see all the other badges, click [here](https://www.credly.com/users/nischal-s
 [![AWS Educate Getting Started with Compute](https://images.credly.com/size/130x130/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png)](http://www.credly.com/badges/47f14b05-0233-470e-9a9c-4eb886b020ac "AWS Educate Getting Started with Compute")
 [![AWS Educate Getting Started with Storage](https://images.credly.com/size/130x130/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png)](http://www.credly.com/badges/a00aab85-1700-4ebf-b9b5-3e5f5686101f "AWS Educate Getting Started with Storage")
 [![AWS Academy Graduate - AWS Academy Cloud Architecting](https://images.credly.com/size/130x130/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png)](http://www.credly.com/badges/d493ff24-20e8-47dd-b981-0e7c2b872017 "AWS Academy Graduate - AWS Academy Cloud Architecting")
-[![ISC2 Candidate](https://images.credly.com/size/130x130/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/2ac54d64-1850-4aab-8187-220b9384e215 "ISC2 Candidate")
 [![Data Science Orientation](https://images.credly.com/size/130x130/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png)](http://www.credly.com/badges/ce261b8b-c88c-45fc-8618-0e5d5dc2bb1f "Data Science Orientation")
 <!--END_SECTION:badges-->
 
